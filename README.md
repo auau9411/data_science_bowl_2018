@@ -21,7 +21,7 @@
 - 프로젝트 진행에 필요한 함수 모음
 
 ### model
-- segmentation_models 라이브러리
+- segmentation_models 라이브러리 사용하여 U-Net 구현
 
 ### postprocessing
 - 출력된 마스크 이미지를 원본 이미지의 크기로 조절한다
